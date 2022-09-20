@@ -10,6 +10,7 @@ public class LegUpApplication {
 		SpringApplication.run(LegUpApplication.class, args);
 		
 		System.out.println("legup");
+		System.out.println("123");
 	}
 
 }
