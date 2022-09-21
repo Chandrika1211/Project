@@ -8,9 +8,8 @@ public class LegUpApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LegUpApplication.class, args);
+		System.out.println("this is change");
 		
-		System.out.println("legup");
-		System.out.println("123");
 	}
 
 }
